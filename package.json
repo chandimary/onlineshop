@@ -1,0 +1,22 @@
+{
+  "name": "project5",
+  "version": "1.0.0",
+  "description": "edu challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "chandimary"
+  },
+  "author": "chandi mary gloria",
+  "license": "ISC",
+  "dependencies": {
+    "body": "^5.1.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.6",
+    "mongoose": "^5.9.9",
+    "passer": "^2.2.1"
+  }
+}
